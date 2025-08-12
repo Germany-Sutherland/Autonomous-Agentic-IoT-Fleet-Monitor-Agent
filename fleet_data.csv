@@ -1,0 +1,6 @@
+vehicle_id,speed,engine_temp,fuel_rate,co2_emissions
+TRK001,60,85,7.2,180
+TRK002,45,90,8.0,200
+TRK003,75,80,6.5,160
+TRK004,50,95,8.5,210
+TRK005,65,88,7.0,175
