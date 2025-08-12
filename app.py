@@ -19,6 +19,7 @@ st.title("🚛 Autonomous IoT Fleet Monitor — Agentic AI demo")
 st.write(
     "Two cooperating agents analyze IoT telemetry to predict emissions and recommend maintenance. "
     "All open-source, lightweight, and ready for Streamlit Cloud."
+    "Click Run Agentic Analysis"
 )
 
 # ---------------------------
